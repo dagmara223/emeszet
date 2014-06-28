@@ -1,0 +1,1632 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>wphi_loc.xlsx</name>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Norway-Oslo</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>1.0</value>
+				</Data>
+				<Data name='id'>
+					<value> no</value>
+				</Data>
+				<Data name='lat'>
+					<value> 59.923208</value>
+				</Data>
+				<Data name='lon'>
+					<value> 10.723833</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Norwegia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Oslo</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 1
+id:  no
+lat:  59.923208
+lon:  10.723833
+cntry_PL: Norwegia
+city_PL: Oslo]]></description>
+			<Point>
+				<coordinates>10.723833,59.923208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Lithuania-Vilnius</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>2.0</value>
+				</Data>
+				<Data name='id'>
+					<value> lt</value>
+				</Data>
+				<Data name='lat'>
+					<value> 54.688111</value>
+				</Data>
+				<Data name='lon'>
+					<value> 25.271986</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Litwa</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Wilno</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 2
+id:  lt
+lat:  54.688111
+lon:  25.271986
+cntry_PL: Litwa
+city_PL: Wilno]]></description>
+			<Point>
+				<coordinates>25.271986,54.688111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Germany-Köln</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>3.0</value>
+				</Data>
+				<Data name='id'>
+					<value> d1</value>
+				</Data>
+				<Data name='lat'>
+					<value> 50.905356</value>
+				</Data>
+				<Data name='lon'>
+					<value> 6.977668</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Niemcy</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Kolonia</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 3
+id:  d1
+lat:  50.905356
+lon:  6.977668
+cntry_PL: Niemcy
+city_PL: Kolonia]]></description>
+			<Point>
+				<coordinates>6.977668,50.905356,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Russia-Moskwa</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>4.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ru</value>
+				</Data>
+				<Data name='lat'>
+					<value> 55.767577</value>
+				</Data>
+				<Data name='lon'>
+					<value> 37.577446</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Rosja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Moskwa</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 4
+id:  ru
+lat:  55.767577
+lon:  37.577446
+cntry_PL: Rosja
+city_PL: Moskwa]]></description>
+			<Point>
+				<coordinates>37.577446,55.767577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Portugal-Lisboa</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>5.0</value>
+				</Data>
+				<Data name='id'>
+					<value> pt</value>
+				</Data>
+				<Data name='lat'>
+					<value> 38.706922</value>
+				</Data>
+				<Data name='lon'>
+					<value> -9.214236</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Portugalia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Lizbona</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 5
+id:  pt
+lat:  38.706922
+lon:  -9.214236
+cntry_PL: Portugalia
+city_PL: Lizbona]]></description>
+			<Point>
+				<coordinates>-9.214236,38.706922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Russia-Petersburg</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>6.0</value>
+				</Data>
+				<Data name='id'>
+					<value> pe</value>
+				</Data>
+				<Data name='lat'>
+					<value> 59.93477</value>
+				</Data>
+				<Data name='lon'>
+					<value> 30.37019</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Rosja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Petersburg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 6
+id:  pe
+lat:  59.93477
+lon:  30.37019
+cntry_PL: Rosja
+city_PL: Petersburg]]></description>
+			<Point>
+				<coordinates>30.37019,59.93477,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Netherlands-Den Haag</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>7.0</value>
+				</Data>
+				<Data name='id'>
+					<value> nl</value>
+				</Data>
+				<Data name='lat'>
+					<value> 52.102423</value>
+				</Data>
+				<Data name='lon'>
+					<value> 4.298633</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Holandia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Haga</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 7
+id:  nl
+lat:  52.102423
+lon:  4.298633
+cntry_PL: Holandia
+city_PL: Haga]]></description>
+			<Point>
+				<coordinates>4.298633,52.102423,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Spain-Madrid</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>8.0</value>
+				</Data>
+				<Data name='id'>
+					<value> es</value>
+				</Data>
+				<Data name='lat'>
+					<value> 40.446574</value>
+				</Data>
+				<Data name='lon'>
+					<value> -3.681849</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Hiszpania</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Madryt</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 8
+id:  es
+lat:  40.446574
+lon:  -3.681849
+cntry_PL: Hiszpania
+city_PL: Madryt]]></description>
+			<Point>
+				<coordinates>-3.681849,40.446574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Greece-Athens</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>9.0</value>
+				</Data>
+				<Data name='id'>
+					<value> gr</value>
+				</Data>
+				<Data name='lat'>
+					<value> 37.996343</value>
+				</Data>
+				<Data name='lon'>
+					<value> 23.806996</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Grecja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Ateny</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 9
+id:  gr
+lat:  37.996343
+lon:  23.806996
+cntry_PL: Grecja
+city_PL: Ateny]]></description>
+			<Point>
+				<coordinates>23.806996,37.996343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> France-Paris</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>10.0</value>
+				</Data>
+				<Data name='id'>
+					<value> fr</value>
+				</Data>
+				<Data name='lat'>
+					<value> 48.86678</value>
+				</Data>
+				<Data name='lon'>
+					<value> 2.274531</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Francja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Paryż</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 10
+id:  fr
+lat:  48.86678
+lon:  2.274531
+cntry_PL: Francja
+city_PL: Paryż]]></description>
+			<Point>
+				<coordinates>2.274531,48.86678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Finland-Helsinki</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>11.0</value>
+				</Data>
+				<Data name='id'>
+					<value> fi</value>
+				</Data>
+				<Data name='lat'>
+					<value> 60.184447</value>
+				</Data>
+				<Data name='lon'>
+					<value> 25.013977</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Finlandia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Helsinki</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 11
+id:  fi
+lat:  60.184447
+lon:  25.013977
+cntry_PL: Finlandia
+city_PL: Helsinki]]></description>
+			<Point>
+				<coordinates>25.013977,60.184447,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Denmark-Copenhagen</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>12.0</value>
+				</Data>
+				<Data name='id'>
+					<value> dk</value>
+				</Data>
+				<Data name='lat'>
+					<value> 55.724516</value>
+				</Data>
+				<Data name='lon'>
+					<value> 12.569922</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Dania</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Kopenhaga</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 12
+id:  dk
+lat:  55.724516
+lon:  12.569922
+cntry_PL: Dania
+city_PL: Kopenhaga]]></description>
+			<Point>
+				<coordinates>12.569922,55.724516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Czech Republic-Praha</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>13.0</value>
+				</Data>
+				<Data name='id'>
+					<value> cz</value>
+				</Data>
+				<Data name='lat'>
+					<value> 50.088061</value>
+				</Data>
+				<Data name='lon'>
+					<value> 14.391193</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Czechy</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Praga</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 13
+id:  cz
+lat:  50.088061
+lon:  14.391193
+cntry_PL: Czechy
+city_PL: Praga]]></description>
+			<Point>
+				<coordinates>14.391193,50.088061,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Croatia-Zagreb</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>14.0</value>
+				</Data>
+				<Data name='id'>
+					<value> hr</value>
+				</Data>
+				<Data name='lat'>
+					<value> 45.82786</value>
+				</Data>
+				<Data name='lon'>
+					<value> 15.969484</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Chorwacja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Zagrzeb</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 14
+id:  hr
+lat:  45.82786
+lon:  15.969484
+cntry_PL: Chorwacja
+city_PL: Zagrzeb]]></description>
+			<Point>
+				<coordinates>15.969484,45.82786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Bulgaria-Sofia</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>15.0</value>
+				</Data>
+				<Data name='id'>
+					<value> bg</value>
+				</Data>
+				<Data name='lat'>
+					<value> 42.676588</value>
+				</Data>
+				<Data name='lon'>
+					<value> 23.294982</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Bułgaria</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Sofia</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 15
+id:  bg
+lat:  42.676588
+lon:  23.294982
+cntry_PL: Bułgaria
+city_PL: Sofia]]></description>
+			<Point>
+				<coordinates>23.294982,42.676588,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Belgium-Brussels</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>16.0</value>
+				</Data>
+				<Data name='id'>
+					<value> be</value>
+				</Data>
+				<Data name='lat'>
+					<value> 50.833659</value>
+				</Data>
+				<Data name='lon'>
+					<value> 4.418176</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Belgia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Bruksela</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 16
+id:  be
+lat:  50.833659
+lon:  4.418176
+cntry_PL: Belgia
+city_PL: Bruksela]]></description>
+			<Point>
+				<coordinates>4.418176,50.833659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Belorus-Minsk</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>17.0</value>
+				</Data>
+				<Data name='id'>
+					<value> by</value>
+				</Data>
+				<Data name='lat'>
+					<value> 53.896162</value>
+				</Data>
+				<Data name='lon'>
+					<value> 27.553385</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Białoruś</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Mińsk</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 17
+id:  by
+lat:  53.896162
+lon:  27.553385
+cntry_PL: Białoruś
+city_PL: Mińsk]]></description>
+			<Point>
+				<coordinates>27.553385,53.896162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Austria-Wien</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>18.0</value>
+				</Data>
+				<Data name='id'>
+					<value> at</value>
+				</Data>
+				<Data name='lat'>
+					<value> 48.180855</value>
+				</Data>
+				<Data name='lon'>
+					<value> 16.281711</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Austria</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Wiedeń</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 18
+id:  at
+lat:  48.180855
+lon:  16.281711
+cntry_PL: Austria
+city_PL: Wiedeń]]></description>
+			<Point>
+				<coordinates>16.281711,48.180855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Ireland-Dublin</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>19.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ie</value>
+				</Data>
+				<Data name='lat'>
+					<value> 53.324601</value>
+				</Data>
+				<Data name='lon'>
+					<value> -6.209873</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Irlandia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Dublin</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 19
+id:  ie
+lat:  53.324601
+lon:  -6.209873
+cntry_PL: Irlandia
+city_PL: Dublin]]></description>
+			<Point>
+				<coordinates>-6.209873,53.324601,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Hungary-Budapest</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>20.0</value>
+				</Data>
+				<Data name='id'>
+					<value> hu</value>
+				</Data>
+				<Data name='lat'>
+					<value> 47.508906</value>
+				</Data>
+				<Data name='lon'>
+					<value> 19.075182</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Węgry</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Budapeszt</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 20
+id:  hu
+lat:  47.508906
+lon:  19.075182
+cntry_PL: Węgry
+city_PL: Budapeszt]]></description>
+			<Point>
+				<coordinates>19.075182,47.508906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Ukraine-Kiev</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>21.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ua</value>
+				</Data>
+				<Data name='lat'>
+					<value> 50.449943</value>
+				</Data>
+				<Data name='lon'>
+					<value> 30.523403</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Ukraina</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Kijów</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 21
+id:  ua
+lat:  50.449943
+lon:  30.523403
+cntry_PL: Ukraina
+city_PL: Kijów]]></description>
+			<Point>
+				<coordinates>30.523403,50.449943,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Sweden-Stockholm</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>22.0</value>
+				</Data>
+				<Data name='id'>
+					<value> se</value>
+				</Data>
+				<Data name='lat'>
+					<value> 59.345328</value>
+				</Data>
+				<Data name='lon'>
+					<value> 18.067893</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Szwecja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Sztokholm</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 22
+id:  se
+lat:  59.345328
+lon:  18.067893
+cntry_PL: Szwecja
+city_PL: Sztokholm]]></description>
+			<Point>
+				<coordinates>18.067893,59.345328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Switzerland-Bern</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>23.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ch</value>
+				</Data>
+				<Data name='lat'>
+					<value> 46.93995</value>
+				</Data>
+				<Data name='lon'>
+					<value> 7.461363</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Szwajcaria</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Berno</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 23
+id:  ch
+lat:  46.93995
+lon:  7.461363
+cntry_PL: Szwajcaria
+city_PL: Berno]]></description>
+			<Point>
+				<coordinates>7.461363,46.93995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Romania-Bucuresti</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>24.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ro</value>
+				</Data>
+				<Data name='lat'>
+					<value> 44.45769470669663</value>
+				</Data>
+				<Data name='lon'>
+					<value> 26.090595439208982</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Rumunia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Bukareszt</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 24
+id:  ro
+lat:  44.45769470669663
+lon:  26.090595439208982
+cntry_PL: Rumunia
+city_PL: Bukareszt]]></description>
+			<Point>
+				<coordinates>26.090595439208982,44.45769470669663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Germany-Berlin</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>25.0</value>
+				</Data>
+				<Data name='id'>
+					<value> d2</value>
+				</Data>
+				<Data name='lat'>
+					<value> 52.509003</value>
+				</Data>
+				<Data name='lon'>
+					<value> 13.377804</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Niemcy</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Berlin</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 25
+id:  d2
+lat:  52.509003
+lon:  13.377804
+cntry_PL: Niemcy
+city_PL: Berlin]]></description>
+			<Point>
+				<coordinates>13.377804,52.509003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Turkey-Ankara</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>26.0</value>
+				</Data>
+				<Data name='id'>
+					<value> tr</value>
+				</Data>
+				<Data name='lat'>
+					<value> 39.918411</value>
+				</Data>
+				<Data name='lon'>
+					<value> 32.825699</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Turcja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Ankara</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 26
+id:  tr
+lat:  39.918411
+lon:  32.825699
+cntry_PL: Turcja
+city_PL: Ankara]]></description>
+			<Point>
+				<coordinates>32.825699,39.918411,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Malaysia-Kuala Lumpur</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>27.0</value>
+				</Data>
+				<Data name='id'>
+					<value> my</value>
+				</Data>
+				<Data name='lat'>
+					<value> 3.162511</value>
+				</Data>
+				<Data name='lon'>
+					<value> 101.690733</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Malezja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Kuala Lumpur</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 27
+id:  my
+lat:  3.162511
+lon:  101.690733
+cntry_PL: Malezja
+city_PL: Kuala Lumpur]]></description>
+			<Point>
+				<coordinates>101.690733,3.162511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> South Korea-Seoul</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>28.0</value>
+				</Data>
+				<Data name='id'>
+					<value> kr</value>
+				</Data>
+				<Data name='lat'>
+					<value> 37.502999</value>
+				</Data>
+				<Data name='lon'>
+					<value> 127.030392</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Korea Płd</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Seul</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 28
+id:  kr
+lat:  37.502999
+lon:  127.030392
+cntry_PL: Korea Płd
+city_PL: Seul]]></description>
+			<Point>
+				<coordinates>127.030392,37.502999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Kazachstan-Almaty</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>29.0</value>
+				</Data>
+				<Data name='id'>
+					<value> kz</value>
+				</Data>
+				<Data name='lat'>
+					<value> 43.219707</value>
+				</Data>
+				<Data name='lon'>
+					<value> 76.952348</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Kazachstan</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Ałmaty</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 29
+id:  kz
+lat:  43.219707
+lon:  76.952348
+cntry_PL: Kazachstan
+city_PL: Ałmaty]]></description>
+			<Point>
+				<coordinates>76.952348,43.219707,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Japan-Tokyo</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>30.0</value>
+				</Data>
+				<Data name='id'>
+					<value> jp</value>
+				</Data>
+				<Data name='lat'>
+					<value> 35.687632</value>
+				</Data>
+				<Data name='lon'>
+					<value> 139.702102</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Japonia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Tokio</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 30
+id:  jp
+lat:  35.687632
+lon:  139.702102
+cntry_PL: Japonia
+city_PL: Tokio]]></description>
+			<Point>
+				<coordinates>139.702102,35.687632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Israel-Tel Aviv</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>31.0</value>
+				</Data>
+				<Data name='id'>
+					<value> il</value>
+				</Data>
+				<Data name='lat'>
+					<value> 32.09414</value>
+				</Data>
+				<Data name='lon'>
+					<value> 34.792712</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Izrael</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Tel Aviv</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 31
+id:  il
+lat:  32.09414
+lon:  34.792712
+cntry_PL: Izrael
+city_PL: Tel Aviv]]></description>
+			<Point>
+				<coordinates>34.792712,32.09414,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Indonesia-Jakarta</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>32.0</value>
+				</Data>
+				<Data name='id'>
+					<value> id</value>
+				</Data>
+				<Data name='lat'>
+					<value> -6.233390970311932</value>
+				</Data>
+				<Data name='lon'>
+					<value> 106.83020491793823</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Indonezja</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Dżakarta</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 32
+id:  id
+lat:  -6.233390970311932
+lon:  106.83020491793823
+cntry_PL: Indonezja
+city_PL: Dżakarta]]></description>
+			<Point>
+				<coordinates>106.83020491793823,-6.233390970311932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> India-New Delhi</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>33.0</value>
+				</Data>
+				<Data name='id'>
+					<value> in</value>
+				</Data>
+				<Data name='lat'>
+					<value> 28.585922</value>
+				</Data>
+				<Data name='lon'>
+					<value> 77.185539</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Indie</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>New Delhi</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 33
+id:  in
+lat:  28.585922
+lon:  77.185539
+cntry_PL: Indie
+city_PL: New Delhi]]></description>
+			<Point>
+				<coordinates>77.185539,28.585922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> China-Beijing</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>34.0</value>
+				</Data>
+				<Data name='id'>
+					<value> cn</value>
+				</Data>
+				<Data name='lat'>
+					<value> 39.913114</value>
+				</Data>
+				<Data name='lon'>
+					<value> 116.441588</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Chiny</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Pekin</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 34
+id:  cn
+lat:  39.913114
+lon:  116.441588
+cntry_PL: Chiny
+city_PL: Pekin]]></description>
+			<Point>
+				<coordinates>116.441588,39.913114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Italy-Roma</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>35.0</value>
+				</Data>
+				<Data name='id'>
+					<value> it</value>
+				</Data>
+				<Data name='lat'>
+					<value> 41.91849</value>
+				</Data>
+				<Data name='lon'>
+					<value> 12.503039</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Włochy</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Rzym</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 35
+id:  it
+lat:  41.91849
+lon:  12.503039
+cntry_PL: Włochy
+city_PL: Rzym]]></description>
+			<Point>
+				<coordinates>12.503039,41.91849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Great Britain-London</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>36.0</value>
+				</Data>
+				<Data name='id'>
+					<value> gb</value>
+				</Data>
+				<Data name='lat'>
+					<value> 51.519541</value>
+				</Data>
+				<Data name='lon'>
+					<value> -0.158638</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Wielka Brytania</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Londyn</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 36
+id:  gb
+lat:  51.519541
+lon:  -0.158638
+cntry_PL: Wielka Brytania
+city_PL: Londyn]]></description>
+			<Point>
+				<coordinates>-0.158638,51.519541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> United States of America-Washington</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>37.0</value>
+				</Data>
+				<Data name='id'>
+					<value> us</value>
+				</Data>
+				<Data name='lat'>
+					<value> 38.909938</value>
+				</Data>
+				<Data name='lon'>
+					<value> -77.046455</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>USA</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Waszyngton</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 37
+id:  us
+lat:  38.909938
+lon:  -77.046455
+cntry_PL: USA
+city_PL: Waszyngton]]></description>
+			<Point>
+				<coordinates>-77.046455,38.909938,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Canada-Montreal</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>38.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ca</value>
+				</Data>
+				<Data name='lat'>
+					<value> 45.500471</value>
+				</Data>
+				<Data name='lon'>
+					<value> -73.582674</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Kanada</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Montreal</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 38
+id:  ca
+lat:  45.500471
+lon:  -73.582674
+cntry_PL: Kanada
+city_PL: Montreal]]></description>
+			<Point>
+				<coordinates>-73.582674,45.500471,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Brazil-Sao Paulo </name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>39.0</value>
+				</Data>
+				<Data name='id'>
+					<value> br</value>
+				</Data>
+				<Data name='lat'>
+					<value> -23.545721</value>
+				</Data>
+				<Data name='lon'>
+					<value> -46.67223</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Brazylia</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Sao Paulo</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 39
+id:  br
+lat:  -23.545721
+lon:  -46.67223
+cntry_PL: Brazylia
+city_PL: Sao Paulo]]></description>
+			<Point>
+				<coordinates>-46.67223,-23.545721,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Argentina-Buenos Aires</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>40.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ar</value>
+				</Data>
+				<Data name='lat'>
+					<value> -34.570363</value>
+				</Data>
+				<Data name='lon'>
+					<value> -58.460464</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Argentyna</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Bueons Aires</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 40
+id:  ar
+lat:  -34.570363
+lon:  -58.460464
+cntry_PL: Argentyna
+city_PL: Bueons Aires]]></description>
+			<Point>
+				<coordinates>-58.460464,-34.570363,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Republic of South Africa-Johannesburg</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>41.0</value>
+				</Data>
+				<Data name='id'>
+					<value> za</value>
+				</Data>
+				<Data name='lat'>
+					<value> -26.120289</value>
+				</Data>
+				<Data name='lon'>
+					<value> 28.109602</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>RPA</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Johannesburg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 41
+id:  za
+lat:  -26.120289
+lon:  28.109602
+cntry_PL: RPA
+city_PL: Johannesburg]]></description>
+			<Point>
+				<coordinates>28.109602,-26.120289,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Egypt-Cairo</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>42.0</value>
+				</Data>
+				<Data name='id'>
+					<value> eg</value>
+				</Data>
+				<Data name='lat'>
+					<value> 30.093485</value>
+				</Data>
+				<Data name='lon'>
+					<value> 31.27433</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Egipt</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Kair</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 42
+id:  eg
+lat:  30.093485
+lon:  31.27433
+cntry_PL: Egipt
+city_PL: Kair]]></description>
+			<Point>
+				<coordinates>31.27433,30.093485,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Algieria-Alger</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>43.0</value>
+				</Data>
+				<Data name='id'>
+					<value> dz</value>
+				</Data>
+				<Data name='lat'>
+					<value> 36.77035363787952</value>
+				</Data>
+				<Data name='lon'>
+					<value> 3.03784423906325</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Algeria</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Algier</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 43
+id:  dz
+lat:  36.77035363787952
+lon:  3.03784423906325
+cntry_PL: Algeria
+city_PL: Algier]]></description>
+			<Point>
+				<coordinates>3.03784423906325,36.77035363787952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Uzbekistan-Tashkent</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>44.0</value>
+				</Data>
+				<Data name='id'>
+					<value> uz</value>
+				</Data>
+				<Data name='lat'>
+					<value> 41.276413</value>
+				</Data>
+				<Data name='lon'>
+					<value> 69.217186</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Uzbekistan</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Taszkent</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 44
+id:  uz
+lat:  41.276413
+lon:  69.217186
+cntry_PL: Uzbekistan
+city_PL: Taszkent]]></description>
+			<Point>
+				<coordinates>69.217186,41.276413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> United States of America-New York</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>45.0</value>
+				</Data>
+				<Data name='id'>
+					<value> u1</value>
+				</Data>
+				<Data name='lat'>
+					<value> 40.750871</value>
+				</Data>
+				<Data name='lon'>
+					<value> -73.974191</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>USA</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Nowy Jork</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 45
+id:  u1
+lat:  40.750871
+lon:  -73.974191
+cntry_PL: USA
+city_PL: Nowy Jork]]></description>
+			<Point>
+				<coordinates>-73.974191,40.750871,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> China-Shanghai</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>46.0</value>
+				</Data>
+				<Data name='id'>
+					<value> c1</value>
+				</Data>
+				<Data name='lat'>
+					<value> 31.209450888870183</value>
+				</Data>
+				<Data name='lon'>
+					<value> 121.40269508396148</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Chiny</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Szanghaj</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 46
+id:  c1
+lat:  31.209450888870183
+lon:  121.40269508396148
+cntry_PL: Chiny
+city_PL: Szanghaj]]></description>
+			<Point>
+				<coordinates>121.40269508396148,31.209450888870183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> Morocco-Casablanca</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>47.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ma</value>
+				</Data>
+				<Data name='lat'>
+					<value> 33.592377805418614</value>
+				</Data>
+				<Data name='lon'>
+					<value> -7.6242005825042725</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Maroko</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Casablanca</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 47
+id:  ma
+lat:  33.592377805418614
+lon:  -7.6242005825042725
+cntry_PL: Maroko
+city_PL: Casablanca]]></description>
+			<Point>
+				<coordinates>-7.6242005825042725,33.592377805418614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> United States of America-SVAC</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>48.0</value>
+				</Data>
+				<Data name='id'>
+					<value> u2</value>
+				</Data>
+				<Data name='lat'>
+					<value> 37.40245</value>
+				</Data>
+				<Data name='lon'>
+					<value> -122.035499</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>USA</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>SVAC</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 48
+id:  u2
+lat:  37.40245
+lon:  -122.035499
+cntry_PL: USA
+city_PL: SVAC]]></description>
+			<Point>
+				<coordinates>-122.035499,37.40245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name> United Arab Emirates - Abu Dhabi</name>
+			<ExtendedData>
+				<Data name='nr'>
+					<value>49.0</value>
+				</Data>
+				<Data name='id'>
+					<value> ae</value>
+				</Data>
+				<Data name='lat'>
+					<value> 24.45</value>
+				</Data>
+				<Data name='lon'>
+					<value> 54.383333</value>
+				</Data>
+				<Data name='cntry_PL'>
+					<value>Zjednoczone Emiraty Arabskie</value>
+				</Data>
+				<Data name='city_PL'>
+					<value>Abu Dhabi</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[nr: 49
+id:  ae
+lat:  24.45
+lon:  54.383333
+cntry_PL: Zjednoczone Emiraty Arabskie
+city_PL: Abu Dhabi]]></description>
+			<Point>
+				<coordinates>54.383333,24.45,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
